@@ -69513,7 +69513,7 @@ return A.tJ(A.tX(p,o,p,p,b.d,p,p,b.b),p,p)},
 $S:399}
 A.JZ.prototype={
 L(a){var s=this.d
-$.aiI().a7A(s,"http://34.100.203.29/")
+$.aiI().a7A(s,"https://sserver.onrender.com")
 return new A.vE(new A.v9(s,null),A.akp(B.U,null).a4N(B.zb,!0),B.x4,null)}}
 A.m2.prototype={
 ai(){return new A.yz($.aiI().a,A.aod(),A.aod(),A.a([],t.Wy),B.k)}}
